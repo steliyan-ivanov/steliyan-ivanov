@@ -1,0 +1,9 @@
+- 👋 Hi people, I’m @steliyan-ivanov and I'm happy to see you here.
+- ♏ I’m Scorpio and I have no time to battle egos and small minds!
+- ☁️ I’m SKY WALKER
+- 👀 I’m INTERACTIVE DESIGNER
+- 📽️ I’m VIDEO EDITOR
+- 💻 I love building cool stuffs
+- 🤘 I’m HARD ROCK MUSIC FAN
+- 📫 hello@steliyan.com
+- 🌐 www.steliyan.com
