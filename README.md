@@ -13,12 +13,12 @@
 </h2>
 
 <!--   [![Visits Badge](https://badges.pufler.dev/visits/steliyan-ivanov/steliyan-ivanov)](https://www.steliyan.com) -->
-
 [![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=steliyan-ivanov)](https://www.steliyan.com)
 [![Years Badge](https://badges.pufler.dev/years/steliyan-ivanov)](https://www.steliyan.com)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
-<p dir="auto"><a href="https://www.facebook.com/St.Ivanoff/" rel="nofollow" target="_blank"><img
+<p dir="auto">
+    <a href="https://www.facebook.com/St.Ivanoff/" rel="nofollow" target="_blank"><img
             src="https://camo.githubusercontent.com/bc978fd30f431cf08c470583abe5b507e56f11afb5a7b86cb0a1eec99b2df644/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3030423246463f7374796c653d666c61742d737175617265266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"
             alt="Facebook"
             data-canonical-src="https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&amp;logo=Facebook&amp;logoColor=white"
@@ -51,4 +51,5 @@
 - 📫 hello@steliyan.com
 - 🌐 www.steliyan.com
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliyan-ivanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=steliyan-ivanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliyan-ivanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=steliyan-ivanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true)
