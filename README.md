@@ -17,7 +17,7 @@
 - 👀 I’m INTERACTIVE DESIGNER
 - 📽️ I’m VIDEO EDITOR
 - 💻 I love building cool stuffs
-- 🤘 I’m HARD ROCK MUSIC FAN
+- 🎧 I’m HARD ROCK MUSIC FAN
 - 📫 hello@steliyan.com
 - 🌐 www.steliyan.com
 
